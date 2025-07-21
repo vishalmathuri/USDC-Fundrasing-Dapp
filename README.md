@@ -54,6 +54,7 @@ npx hardhat init
 
 
 # Frontend side
+npx create-react-app fundraising-frontend
 cd fundraising-frontend
 npm install
 ```
